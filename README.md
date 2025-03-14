@@ -2,4 +2,4 @@
 it is used to rank resumes based on the job desciption 
 
 to run the code use 
-# streamlit run <filename>
+# streamlit run (filename.py)
